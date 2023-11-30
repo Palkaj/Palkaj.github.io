@@ -1,0 +1,35 @@
+p {
+    font-size: 40px;
+}
+
+#rus {
+    color:brown;
+}
+
+#math {
+    color:rgb(82, 74, 232);
+}
+
+#inf {
+    color:rgb(67, 165, 42);
+}
+
+#eng {
+    color:rgb(165, 42, 132);
+}
+
+#phys {
+    color:rgb(42, 159, 165);
+}
+
+#gym {
+    color:rgb(237, 120, 18);
+}
+
+#chim {
+    color:rgb(14, 71, 3);
+}
+
+#day {
+    color:white;
+}
